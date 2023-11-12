@@ -25,4 +25,4 @@ La entrega deberá ser subiendo el Backup de la base de datos, una captura de la
 ![Registros Tabla DB](./assets/registros.png)
 
 ### Archivo Backup
-Vease archivo [Archivo Backup](./oradores.sql)
+Véase [Archivo Backup](./oradores.sql)
